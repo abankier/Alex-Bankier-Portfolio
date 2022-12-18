@@ -59,6 +59,10 @@ disqusShortname = ""
       name = "Motion Capture"
       url = "blogs"  
 
+#    [[params.navigation.links]]
+#      name = "Contact"
+#      url = "contact"  
+
     [[params.navigation.links]]
       name = "Elements"
       url = "elements.html"
